@@ -1,0 +1,31 @@
+.btn{
+    background-color: aqua;
+}
+.create{
+      background-color: blue;
+    font-size: 24px;
+    color: beige;
+    border-radius: 12px;
+    text-transform: uppercase;
+    margin-right: 12px;
+    padding: 60px;
+
+}*/
+
+*/
+
+form{
+    display:grid;
+    width: 30%;
+    border-style:solid;
+    border-width: 1px;
+    border-color:brown;
+    border-radius: 10px;
+}
+
+input{
+    margin-bottom: 24px;
+}
+label{
+    text-transform: uppercase;
+}
