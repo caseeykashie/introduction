@@ -1,34 +1,31 @@
 .btn{
     background-color:blue;
 }
-.body{
-    background-color:blue;
-}
 
-.form{
+
+form{
     width: 100%;
     border-style:solid;
     border-width: 1px;
     border-color:black;
     border-radius: 20px;
-    text-align: center;
     padding: 20px;
     margin: 20px;
     margin-bottom: 20px;
-    display: grid;grid-template-columns: 1fr;
+    display: grid;
+    grid-template-columns: 1fr;
 }
 
 .input{
     margin-bottom: 24px;
     border-radius: 25px;
-    flex-direction: column;
 
 }
-.style{
+/*.style{
     text-transform: capitalize;
     text-align: center;
     flex-direction: column;
     border-style: solid;
     display: grid;grid-template-columns: 1fr;
     border-color: brown;
-}
+}*/
